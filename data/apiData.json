@@ -1,0 +1,63 @@
+ [
+    { 
+        "id" : 1,
+        "type": "GMP",
+        "question": "What do the initials GMP stand for?",
+        "answers": [
+                { "text": "Good Manufacturing Practice", "correct": true },
+                { "text": "Good Manufacturing Procedure", "correct": false },
+                { "text": "Good Morning, Pal!", "correct": false},
+                { "text": "Great Manufacturing Procedure", "correct": false }
+        ],
+        "explanation": "ANSWER: Good Manufacturing Practice is the correct answer"
+      },
+  { 
+    "id" : 2,
+    "type": "GMP",
+    "question": "Which of the following is a primary component of Good Manufacturing Practice (GMP) regulations?",
+    "answers": [
+            { "text": "Maintaining personal hygiene in the workplace", "correct": true },
+            { "text": "Reducing production costs to increase profit margins", "correct": false },
+            { "text": "Increasing the number of employees to speed up production", "correct": false},
+            { "text": "Using the cheapest available raw materials", "correct": false }
+    ],
+    "explanation": "ANSWER: Maintaining personal hygiene in the workplace is the correct answer"
+  },
+
+  { 
+    "id": 3,
+    "type": "GMP",
+    "question": "What is the primary goal of Good Manufacturing Practice (GMP) regulations?",
+    "answers": [
+            { "text": "To maximize production output", "correct": false },
+            { "text": "To ensure products are safe and of high quality", "correct": true },
+            { "text": "To minimize the cost of production", "correct": false },
+            { "text": "To increase market share", "correct": false }
+    ],
+    "explanation": "ANSWER: To ensure products are safe and of high quality is the correct answer"
+  },
+  { 
+    "id": 4,
+    "type": "Personal Hygiene",
+    "question": "Knowing the correct way to handle the products hygienically is the responsibility of:",
+    "answers": [
+            { "text": "Only from health authorities", "correct": false },
+            { "text": "All the personal staff of the company", "correct": true },
+            { "text": "Only from consumers", "correct": false },
+            { "text": "Only the owners of the company", "correct": false }
+    ],
+    "explanation": "ANSWER: All the personal staff of the company is the correct answer"
+  },
+  { 
+    "id": 5,
+    "type": "GMP",
+    "question": "Why GMP are so important in the company",
+    "answers": [
+            { "text": "To increase company profits", "correct": false },
+            { "text": "Reduce risks and avoid contamination", "correct": true },
+            { "text": "To minimize the cost of production", "correct": false },
+            { "text": "Improve product quality", "correct": true }
+    ],
+    "explanation": "ANSWER: Reduce risks and avoid contamination and Improve product quality are the correct answer"
+  }
+]
