@@ -54,7 +54,7 @@
     "question": "Why GMP are so important in the company",
     "answers": [
             { "text": "To increase company profits", "correct": false },
-            { "text": "They ensure all employees wear matching outfits", "correct": true },
+            { "text": "They ensure all employees wear matching outfits", "correct": false },
             { "text": "To minimize the cost of production", "correct": false },
             { "text": "Improve product quality, reduce risks and avoid contamination", "correct": true }
     ],
